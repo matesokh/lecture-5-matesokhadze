@@ -1,0 +1,141 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding-top: 54px;
+    padding-left: 52px;
+}
+.nav-link1 {
+    vertical-align: baseline;
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+}
+.active {
+    color: #4E6FAE;
+    padding-left: 60px;
+}
+.news {
+    padding-left: 87px;
+}
+.contact {
+    padding-left: 81px;}
+
+    .date {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #5012D5;
+        color: #84FF81;
+        font-weight: 400;
+        font-size: 24px;
+    }
+    .firsti {
+        padding-top: 52px;
+        padding-left: 52px;
+    }
+   .month {
+      padding-top: 18px;
+      font-size: 24px;
+      font-weight: 400;
+      color: #8D81FF;
+   }
+   .info {
+    padding-top: 8px;
+      font-size: 20px;
+      font-weight: 700;
+      color: #4E6FAE;
+   }
+   .photo1 {
+    display: flex;
+    padding-top: 13px;
+
+   }
+   .text1 {
+    color: #4E6FAE;
+    font-size: 16px;
+    font-weight: 400px;
+    padding-top: 14px;
+   }
+   .secondi {
+    padding-left: 52px;
+   }
+   .date2 {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #5012D5;
+        color: #84FF81;
+        font-weight: 400;
+        font-size: 24px;
+
+
+   }
+   .month2 {
+      padding-top: 14px;
+      font-size: 24px;
+      font-weight: 400;
+      color: #8D81FF;
+    }
+    .info2{
+         padding-top: 14px;
+      font-size: 20px;
+      font-weight: 700;
+      color: #4E6FAE;
+    }
+    .photo2{
+        padding-top: 14px;
+    }
+    .thirdi {
+        padding-left: 52px;
+    }
+    .photo3 {
+        padding-top: 14px;
+    }
+ .text2 {
+    padding-top: 14px;
+    color: #4E6FAE;
+    font-weight: 400;
+    font-size: 16px;
+ }
+ .text3 {
+    color: #4E6FAE;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 34px;
+ }
+
+ .d1 {
+display: flex;
+gap: 66px;
+margin-bottom: 100px;
+
+ }
+
+ .d2 {
+    display: flex;
+    gap: 66px;
+    margin-bottom: 100px;
+ }
+ .flogo {
+    margin-top: 143px;
+    margin-left: 52px;
+ }
+ .tubelogo {
+    padding-left: 82px;
+ }
+ .line {
+    margin-left: 41px;
+    margin-right: -41px;
+    display: inline-block;
+    width: 2px;
+    height: 48px;
+    background-color: #5012D5;
+ }
+ .ft {
+    margin-bottom: 286px;
+ }
+ 

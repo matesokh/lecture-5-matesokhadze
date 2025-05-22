@@ -1,0 +1,100 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding-top: 54px;
+    padding-left: 52px;
+}
+
+.nav-link1 {
+    vertical-align: baseline;
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+}
+
+.active {
+    color: #4E6FAE;
+}
+
+.news {
+    padding-left: 87px;
+}
+
+.contact {
+    padding-left: 81px;
+}
+
+.main {
+    padding-left: 60px;
+}
+
+.p1 {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+span {
+    color: #7E8898;
+}
+
+.h1 {
+    margin-bottom: 20px;
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 700;
+    color: #4E6FAE;
+
+
+
+}
+
+.div1 {
+    padding-top: 100px;
+    display: inline-block;
+    margin-top: 31px;
+    width: 100%;
+    height: 735px;
+    background-color: #E7E7E7;
+}
+
+iframe {
+    height: 549px;
+    width: 780px;
+    display: inline-block;
+}
+
+.flogo {
+    margin-top: 143px;
+    margin-left: 52px;
+}
+
+.tubelogo {
+    padding-left: 82px;
+}
+
+.line1 {
+    margin-left: 41px;
+    margin-right: -41px;
+    display: inline-block;
+    width: 2px;
+    height: 48px;
+    background-color: #5012D5;
+}
+
+.ft {
+    margin-left: 150px;
+    margin-bottom: 286px;
+}
+
+.iframe {
+    display: inline-block;
+}
+
+.contacts {
+    display: inline-block;
+    padding-left: 100px;
+    vertical-align: top;
+    margin-right: 20px;
+}
